@@ -1,5 +1,5 @@
 # portfolio
-Projeto - criação de um site de portfólio.
+Criação de um site de portfólio.
 
 ## Tarefas
 O controle das tarefas desse projeto será realizado no GitHub.
@@ -10,3 +10,4 @@ O controle das tarefas desse projeto será realizado no GitHub.
 :up: atualização
 :beatle: corregação de bug
 :checkered_flag: release
+
